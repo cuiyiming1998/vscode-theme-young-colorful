@@ -272,7 +272,7 @@
       "scope": [
         "keyword",
         "keyword.operator.logical",
-        "keyword.operator.constructor"
+        "keyword.operator.constructor",
       ],
       "settings": {
         "foreground": "#e06c75"
@@ -280,7 +280,9 @@
     },
     {
       "name": "Keyword Operator",
-      "scope": "keyword.operator",
+      "scope": [
+        "keyword.operator",
+      ],
       "settings": {
         "foreground": "#e06c75"
       }
@@ -296,7 +298,7 @@
       "name": "Types",
       "scope": "storage.type",
       "settings": {
-        "foreground": "#cb7676"
+        "foreground": "#e06c75"
       }
     },
     {
@@ -331,7 +333,6 @@
     {
       "name": "Other variable",
       "scope": [
-        "variable.other",
         "variable.other.property",
         "variable.other.block"
       ],
