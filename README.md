@@ -1,16 +1,31 @@
-# young-colorful-theme README
+<h1 align="center">Young Colorful Theme for VSCode</h1>
 
-## Working with Markdown
+<p align="center">
+<a href="https://marketplace.visualstudio.com/items?itemName=YoungC.young-colorful-theme" target="__blank"><img src="https://img.shields.io/visual-studio-marketplace/v/YoungC.young-colorful-theme.svg?color=4d9375&amp;label=Marketplace&logo=visual-studio-code" alt="Visual Studio Marketplace Version" /></a>
+</p>
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+<p align="center">
+  <h2 align="center">Rust</h2>
+  <img src="https://github.com/cuiyiming1998/vscode-theme-young-colorful/assets/25956970/7c7e8d42-9dbe-4f18-9e2d-2ccb72636090" />
+</p>
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+<p align="center">
+  <h2 align="center">Vue</h2>
+  <img src="https://github.com/cuiyiming1998/vscode-theme-young-colorful/assets/25956970/823d12bd-ee98-40c5-9fde-9a5d09e420a1" />
+</p>
 
-## For more information
+<p align="center">
+  <h2 align="center">TypeScript</h2>
+  <img src="https://github.com/cuiyiming1998/vscode-theme-young-colorful/assets/25956970/2ce01a2b-27bd-4077-aa15-221e667f1245" />
+</p>
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+<p align="center">
+  <sub><samp>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Font | <a href="https://github.com/tonsky/FiraCode">Fira Code</a><br>
+  &nbsp;File Icons | <a href="https://marketplace.visualstudio.com/items?itemName=file-icons.file-icons">File Icons</a><br>
+  Product Icons | <a href="https://github.com/antfu/vscode-icons-carbon">Carbon</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+</p>
 
-**Enjoy!**
+<h2 align="center">Thanks</h2>
+<p align="center">
+  This project is based on <a href="https://github.com/antfu/vscode-theme-vitesse">VSCode Theme Vitesse</a>
+</p>

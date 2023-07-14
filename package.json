@@ -2,7 +2,13 @@
   "name": "young-colorful-theme",
   "displayName": "Young Colorful Theme",
   "description": "a colorful theme",
-  "version": "0.0.1",
+  "publisher": "YoungC",
+  "version": "1.0.0",
+  "icon": "icon.png",
+  "repository": {
+    "url": "https://github.com/cuiyiming1998/vscode-theme-young-colorful",
+    "type": "git"
+  },
   "engines": {
     "vscode": "^1.80.0"
   },
